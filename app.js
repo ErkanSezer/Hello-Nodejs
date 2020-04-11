@@ -1,1 +1,1 @@
-console.log("hello node js erkan1 selam devam");
+console.log("hello nod ");
